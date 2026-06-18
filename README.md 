@@ -1,87 +1,111 @@
-<h1 align="center">Hi 👋, I'm Parmod Kumar</h1>
-<h3 align="center">Full Stack Developer | Next.js | TypeScript | React Native</h3>
+<h1 align="center">Hey 👋, I'm Parmod Kumar</h1>
 
 <p align="center">
-Building scalable web applications, streaming platforms, and real-time experiences.
+  <b>Full Stack Developer • MERN Stack • Next.js • React Native</b>
+</p>
+
+<p align="center">
+  🚀 Building scalable web apps • 🎬 Streaming Platforms • ⚡ Real-time Systems
+</p>
+
+<p align="center">
+  <a href="https://github.com/parmodpatel">
+    <img src="https://komarev.com/ghpvc/?username=parmodpatel&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Software Engineer with 2+ years of experience in web and mobile application development
-- ⚡ Specialized in Next.js, TypeScript, React, React Native, and Node.js
-- 🎬 Worked on live streaming platforms serving real-time sports and entertainment content
-- 📱 Developed Smart TV and mobile applications using React Native
-- 🔗 Experienced in API integrations, CMS platforms, authentication systems, and analytics
-- 🌱 Currently exploring AI Agents, LLM integrations, and scalable backend architectures
-- 🎯 Passionate about performance optimization and clean code practices
+- 💼 Software Engineer with **2+ years of experience**
+- ⚡ Expert in **Next.js, TypeScript, React, React Native, Node.js**
+- 🎬 Built **live streaming platforms** with real-time sports data
+- 📺 Developed **Smart TV applications** with seamless navigation
+- 🔗 Strong in **API integrations, CMS systems, authentication**
+- 📊 Focused on **performance optimization & scalable systems**
+- 🤖 Exploring **AI Agents, LLMs, and automation tools**
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
-![React](https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind)
-
-### Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,express)
-
-### Database
-![Database](https://skillicons.dev/icons?i=mongodb,mysql)
-
-### Tools
-![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode,vercel)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,nodejs,express,mongodb,mysql,git,github,vercel,postman" />
+</p>
 
 ---
 
-## 💼 Featured Projects
+## 🎯 Featured Projects
 
 ### 🎬 Live Streaming Platform
-- Built a scalable cricket streaming platform using Next.js and TypeScript
-- Implemented real-time score updates
-- Integrated CMS-driven content management
-- Optimized performance using lazy loading and code splitting
+- ⚡ Real-time cricket streaming & match updates  
+- 🎥 HLS-based video playback  
+- 🚀 Optimized performance (lazy loading, code splitting)  
+- 🔗 CMS + API integration  
 
-### 📺 React Native TV Application
-- Developed Smart TV streaming application
-- Implemented remote navigation and focus management
-- Delivered live sports and entertainment experiences
+---
+
+### 📺 React Native TV App
+- 📡 Live streaming for Smart TVs  
+- 🎮 Remote-based navigation system  
+- ⚡ Smooth UI for large-screen devices  
+
+---
 
 ### 🌐 MERN Social Platform
-- Authentication & Authorization
-- Posts, Likes, Comments
-- REST APIs and MongoDB integration
+- 🔐 Authentication & Authorization  
+- 💬 Posts, Likes, Comments  
+- 🔗 REST APIs + MongoDB  
 
-### 🤖 Plant Disease Detection System
-- Deep Learning based image classification
-- Streamlit deployment
-- Real-time disease prediction
+---
+
+### 🤖 AI Disease Detection
+- 🧠 Deep Learning image classification  
+- ⚡ Real-time predictions  
+- 🌐 Deployed using Streamlit  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parmodpatel&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=parmodpatel&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parmodpatel" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parmodpatel&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parmodpatel&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parmodpatel&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- Portfolio: YOUR_PORTFOLIO_URL
-- Email: YOUR_EMAIL
+<p align="center">
+  <a href="YOUR_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
-⭐ Open to Full Stack Development, Next.js, React Native, and AI-powered projects.
+## ⚡ What I Do
+
+✔ Full Stack Web Development  
+✔ Real-Time Applications  
+✔ Streaming Platforms  
+✔ API Development  
+✔ Performance Optimization  
+
+---
+
+<p align="center">
+  ⭐ Building real-world scalable products, not just projects
+</p>
