@@ -1,24 +1,28 @@
 <h1 align="center">Hey 👋, I'm Parmod Kumar</h1>
 
 <p align="center">
-  <b>Full Stack Developer • MERN Stack • Next.js • React Native</b>
+  <b>Full Stack Developer</b>
 </p>
 
-<p align="center">
-  🚀 Building scalable web apps • 🎬 Streaming Platforms • ⚡ Real-time Systems
-</p>
+<!-- <p align="center">
+I am a Full Stack Developer skilled in building scalable and high-performance web applications using modern technologies like MERN Stack, Next.js, TypeScript, React, and Node.js.  
+I have hands-on experience developing real-time systems, streaming platforms, and cross-platform applications including mobile and TV apps.  
+My expertise includes API integration, authentication systems, and working with databases like MongoDB and MySQL.  
+I focus on writing clean, maintainable code and optimizing applications for performance and user experience.  
+Currently, I am exploring advanced backend architectures, AI integrations, and building production-ready systems.
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/parmodpatel">
     <img src="https://komarev.com/ghpvc/?username=parmodpatel&label=Profile%20views&color=0e75b6&style=flat" />
   </a>
-</p>
+</p> -->
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Software Engineer with **2+ years of experience**
+- 💼 Full Stack Developer
 - ⚡ Expert in **Next.js, TypeScript, React, React Native, Node.js**
 - 🎬 Built **live streaming platforms** with real-time sports data
 - 📺 Developed **Smart TV applications** with seamless navigation
@@ -69,13 +73,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parmodpatel&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parmodpatel&theme=tokyonight" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parmodpatel&layout=compact&theme=tokyonight" />
@@ -86,10 +90,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/parmodpatel03/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:parmodpatel2603@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
@@ -100,7 +104,6 @@
 
 ✔ Full Stack Web Development  
 ✔ Real-Time Applications  
-✔ Streaming Platforms  
 ✔ API Development  
 ✔ Performance Optimization  
 
